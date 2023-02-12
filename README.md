@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=500&width=435&lines=Hi!+I%60m+Ismael.+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/IsmaelBZ/IsmaelBZ/blob/output/github-contribution-grid-snake.svg)
 
 <!--
