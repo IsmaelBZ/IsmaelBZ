@@ -1,6 +1,6 @@
 # Hi there!
 
-I am a curious person who enjoys learning about various subjects. Occasionally I stumbled upon fron-end development and fell in love with it, especially, when encounter something that I don't know, search for solutions, find some codes, but isn't my answer.  Have to assimilate all the surroundings and cooming up with an own way to resolve that peace of code. Finnaly can see all working. And more, it`s never ends.
+I am a curious person who enjoys learning about various subjects. Occasionally I stumbled upon fron-end development and fell in love with it, especially, when encounter something that I don't know, search for solutions, find some codes, but isn't my answer.  Have to assimilate all the surroundings and cooming up with an own way to resolve that peace of code. Finnaly can see all working. And more, it's never ends.
 
 
 ## Skills
